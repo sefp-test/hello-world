@@ -1,4 +1,4 @@
-# hello-world
+# Hello-world
 Just another repository
 
 Some new lines.
